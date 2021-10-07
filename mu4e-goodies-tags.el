@@ -87,7 +87,7 @@
     val))
 
 
-(add-to-list 'mu4e~headers-field-handler-functions 'mu4e-goodies-headers-add-tags-to-subject)
+;; (add-to-list 'mu4e~headers-field-handler-functions 'mu4e-goodies-headers-add-tags-to-subject)
 
 
 ;; ;; an ugly implement for this
